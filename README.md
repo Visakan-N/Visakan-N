@@ -4,6 +4,7 @@ An aspiring Data Scientist who has a deep passion for ML, AI and data in general
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/visakan_7) 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Viasakan Nambirajan) 
 
 # 💻 Tech Stack:
